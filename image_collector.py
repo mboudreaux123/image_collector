@@ -2,12 +2,6 @@
 # 11/7/2022
 # Capture a series of images at a specified time interval
 
-# Credit:
-# Python | OpenCV program to read and save an Image
-# https://www.geeksforgeeks.org/python-opencv-program-to-read-and-save-an-image/
-# How to change a datetime format in python?
-# https://stackoverflow.com/questions/64137532/how-to-change-a-datetime-format-in-python
-
 import cv2, time, argparse
 from datetime import datetime
   
